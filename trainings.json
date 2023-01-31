@@ -1,26 +1,32 @@
 [
-      {
+    {
         "date": "2023-02-01",
         "time": "10:00",
-        "trainers": ["Trainer 1", "Trainer 2"],
+        "trainers": [
+            "Trainer 1",
+            "Trainer 2"
+        ],
         "focus": "Endurance Training",
-        "details":
-            "Work on building endurance and stamina during this training session."
-      },
-      {
+        "details": "Work on building endurance and stamina during this training session."
+    },
+    {
         "date": "2023-02-01",
         "time": "14:00",
-        "trainers": ["Trainer 3"],
+        "trainers": [
+            "Trainer 3"
+        ],
         "focus": "Speed Training",
-        "details":
-            "Focus on improving speed and acceleration during this training session."
-      },
-      {
+        "details": "Focus on improving speed and acceleration during this training session."
+    },
+    {
         "date": "2023-02-02",
         "time": "09:00",
-        "trainers": ["Trainer 1", "Trainer 2", "Trainer 3"],
+        "trainers": [
+            "Trainer 1",
+            "Trainer 2",
+            "Trainer 3"
+        ],
         "focus": "Technique Training",
-        "details":
-            "Work on improving technique and form during this training session."
-      }
-    ];
+        "details": "Work on improving technique and form during this training session."
+    }
+]
