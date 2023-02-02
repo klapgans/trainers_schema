@@ -2,7 +2,7 @@
 {
 "date": "2023-02-01",
 "time": "10:00",
-"trainers": ["trainer 1", "trainer 2"]
+"trainers": ["trainer 1", "trainer 2"],
 "focus": "Endurance Training",
 "details": "Work on building endurance and stamina during this training session.",
 "training_id": "1"
@@ -10,7 +10,7 @@
 {
 "date": "2023-02-01",
 "time": "14:00",
-"trainers": ["trainer 1", "trainer 2"]
+"trainers": ["trainer 1", "trainer 2"],
 "focus": "Speed Training",
 "details": "Focus on improving speed and acceleration during this training session.",
 "training_id": "2"
@@ -18,7 +18,7 @@
 {
 "date": "2023-02-02",
 "time": "09:00",
-"trainers": ["trainer 1", "trainer 2"]
+"trainers": ["trainer 1", "trainer 2"],
 "focus": "Technique Training",
 "details": "Work on improving technique and form during this training session.",
 "training_id": "3"
